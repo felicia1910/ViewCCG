@@ -1,0 +1,1 @@
+import{d as o,h as s,j as t,o as a,c as r,n as c,b as m}from"./index-4405b5ba.js";import{_ as i}from"./index.vue_vue_type_script_setup_true_lang-60a44b6a.js";const f=o({__name:"index",setup(u){s();const{pageRouteValue:e}=t(),n=()=>{console.log("handleMemberRegistration")};return a(()=>{}),(_,l)=>(m(),r(i,{items:c(e),onDoFunction:n},null,8,["items"]))}});export{f as default};

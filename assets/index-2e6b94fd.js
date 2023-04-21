@@ -1,0 +1,1 @@
+import{d as n,h as o,j as t,o as a,c,n as r,b as m}from"./index-4405b5ba.js";import{_}from"./index.vue_vue_type_script_setup_true_lang-60a44b6a.js";const d=n({__name:"index",setup(u){o();const{pageRouteValue:e}=t();a(()=>{s()});const s=()=>{};return(p,i)=>(m(),c(_,{items:r(e)},null,8,["items"]))}});export{d as default};
